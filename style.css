@@ -1,0 +1,12 @@
+.promo{
+    min-height: 400px;
+    color: red;
+}
+
+.picture{
+    width: 100%;
+    background-color: grey;
+    align-items: center;
+
+}
+
